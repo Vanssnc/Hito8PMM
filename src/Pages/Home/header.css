@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 0px;
+    margin: 0px;
+    padding-top: 4em;
+    padding-bottom: 4em;
+    background-image: url(https://img.freepik.com/free-photo/top-view-delicious-food-with-copy-space_23-2150873988.jpg?t=st=1726602903~exp=1726606503~hmac=bbb562aae8fb3438706a228f961b9a9010deb1cc1c995af8ffc5782f7f8b1d74&w=1380);
+    background-repeat: no-repeat;
+    background-color: rgb(128, 128, 128);
+    background-blend-mode: multiply;
+    color: white;
+
+}
